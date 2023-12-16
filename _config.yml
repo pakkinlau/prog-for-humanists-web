@@ -1,75 +1,87 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole site, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
+# -----------------------------------------------------------------------------
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Pak Kin Lau 
-baseurl: '/prog-for-humanists-web' # the subpath of your site, e.g. /blog
-url: 'https://pakkinlau.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+# -----------------------------------------------------------------------------
+author: SAILING lab
+name: 10-708 PGM
+title: Probabilistic Graphical Models
+email: 10708-instructor@cs.cmu.edu
+description: >
+  10-708 - Probabilistic Graphical Models - Carnegie Mellon University - Spring 2019
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-# Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.7.0
-color_scheme: light
-search_enabled: true
-heading_anchors: true
-permalink: pretty
-aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
-footer_content:
+url:  # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
 
-# Collections for website data
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: sailinglab
+google_analytics: UA-131744305-1
+youtube_channel: UCim-E6bNz7lUyKZwhgN6S1A
+rss:  # notes rss
+
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+blog_name: Course Notes
+blog_description: The notes written by students and edited by instructors
+
+# Pagination
+paginate: 10
+permalink: /notes/:title/
+paginate_path: /notes/page:num/
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+
+# Comments
+disqus_shortname: # put your disqus shortname
+
+# Optional features
+show_social_icons:  true
+enable_anchorjs:    true
+enable_latexjs:     true
+enable_katex:       true
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
 collections:
-  staffers:
-  modules:
-  schedules:
   announcements:
-# Default layouts for each collection type
-defaults:
-  - scope:
-      path: ''
-      type: staffers
-    values:
-      layout: staffer
-      height: 300
-      subpath: '/assets/images/'
-      width: 300
-  - scope:
-      path: ''
-      type: modules
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
+    defaults:
+      layout: post
+    output: true
+    permalink: /announcements/:path/
 
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
+announcements_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
+
+# Plug-ins
+plugins:
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jemoji
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.10.1"
+anchorjs_version: "3.2.2"
+latexjs_version: "0.11.1"
+
+theme: jekyll-theme-slate

@@ -1,9 +1,12 @@
-*.gem
-.bundle/
+_site/
+.sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-.sass-cache/
-Gemfile.lock
-_site/
-node_modules/
-vendor/
+
+# for macOS (qsu1)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.idea/
+.ruby-version
