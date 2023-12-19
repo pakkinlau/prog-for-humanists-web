@@ -1,0 +1,4 @@
+{% assign lectures_page = site.pages | where: "url", "/lectures/" | first %}
+{% if lectures_page %}
+  {{ lectures_page.content | markdownify }}
+{% endif %}
