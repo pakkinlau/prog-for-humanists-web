@@ -3,7 +3,6 @@ layout: schedule
 permalink: /lectures/
 title: Schedule
 ---
-
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
@@ -39,18 +38,10 @@ title: Schedule
             {% else %}
               slides
             {% endif %}
-            {% if lecture.annotated %}
-              (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
-            {% endif %}
-            {% if lecture.video %}
-            | <a href="{{ lecture.video }}" target="_blank">video</a>
+            {% if lecture.ipynb %}
+            | <a href="{{ lecture.ipynb }}" target="_blank">ipynb</a>
             {% else %}
-            | video
-            {% endif %}
-            {% if lecture.notes %}
-            | <a href="{{ lecture.notes }}" target="_blank">notes</a>
-            {% else %}
-            | notes
+            | ipynb
             {% endif %}
         ]
     </td>

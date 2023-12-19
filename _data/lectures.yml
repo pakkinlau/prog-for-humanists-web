@@ -1,20 +1,17 @@
-- title: "Module 1: Introduction, Representation, and Exact Inference"
+- title: "Module 1: Working on structured and unstructured data with python"
 
-- date: 1/14
-  lecturer: Eric
+- date: 13/13
   title: >
-    <strong>Introduction to GM</strong>
-  slides: "https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
-  annotated: "https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
-  video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab0b8be-a86f-4a46-9dae-a9d0012950cb"
-  notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+    <strong>Introduction, environment setups, basic programming walk throughs</strong>
+  slides: "https://docs.google.com/presentation/d/1O5z15EdfpT5E9EgGuV-xZsY8M0t6w7QqKCFfeJJBTQE/edit#slide=id.g26435cf8a4c_0_766"
+  ipynb: "https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%200"
   readings:
-    - Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
-    - E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+    - Github, <a href="https://docs.github.com/en/get-started" target="_blank">Get started with Github</a>
+    - Microsoft, <a href="https://code.visualstudio.com/docs/introvideos/basics" target="_blank">Get started with VS code</a>
+    - "_assets/assignments/hw1/assignment_v1.1.pdf"
   logistics:
 
-- date: 1/16
-  lecturer: Eric
+- date: 13/13
   title: >
     <strong>Representation: Directed GMs (BNs)</strong>
   slides: "https://drive.google.com/open?id=1pl_IeC4N11IUMAyJnPcT_HDLHBVfB4Qx"
@@ -26,11 +23,10 @@
     - Koller and Friedman Textbook, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/readings/Ch%203.pdf" target="_blank">Ch. 3</a>
   logistics:
 
-- date: 1/21
+- date: 13/13
   title: No class (MLK day)
 
-- date: 1/23
-  lecturer: Eric
+- date: 13/13
   title: >
     <strong>Representation: Undirected GMs (MRFs)</strong>
   slides: "https://drive.google.com/open?id=10-YQcNcpEETh8GAbrm2Oc4jFFO5J6q1B"
@@ -43,8 +39,7 @@
     - A. Fischer and C. Igel, <a href="https://pdfs.semanticscholar.org/dd13/5a89b5075af5cbef5becaf419457cdd77cc9.pdf" target="_blank">An Introducton to Restricted Boltzmann Machines</a>
   logistics:
 
-- date: 1/28
-  lecturer: Eric
+- date: 1/5
   title: >
     <strong>Exact inference</strong> <br />
     - Elimination <br />
@@ -63,7 +58,6 @@
     <span class="event">HW1 out (Mon, 1/28)</span>
 
 - date: 1/30
-  lecturer: skipped
   title: >
     <strong>Parameter learning in fully observable Bayesian Networks</strong> <br />
     - Generalized Linear Models (GLIMs) <br />
@@ -80,8 +74,7 @@
     - Geiger and Heckerman, <a href="https://projecteuclid.org/euclid.aos/1069362752" target="_blank">A characterization of the Dirichlet distribution through global and local parameter independence</a>
   logistics:
 
-- date: 2/4
-  lecturer: Maruan
+- date: 1/6
   title: >
     <strong>Parameter Learning of partially observed BN</strong> <br />
     - Mixture models <br />
@@ -99,7 +92,6 @@
   logistics:
 
 - date: 2/6
-  lecturer: Eric
   title: >
     <strong>Maximum likelihood learning of undirected GM</strong>
   slides: "https://drive.google.com/open?id=115xuxWPNP6x1yFY0HxR8U5bQrigOXxDh"
@@ -113,7 +105,6 @@
   logistics:
 
 - date: 2/11
-  lecturer: guest lecture, <a href="https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html" target="_blank">Kun Zhang</a> @ Department of Philosophy
   title: >
     <strong>Causal discovery and inference</strong>
   slides: "https://drive.google.com/open?id=1pXvKPXUcOHPFff0RsUvEUmTLMeXuPQQV"
@@ -127,7 +118,6 @@
   logistics:
 
 - date: 2/13
-  lecturer: Eric
   title: >
     <strong>Modeling networks</strong> <br>
     - Gaussian graphical models <br>
@@ -144,7 +134,6 @@
     <span class="deadline">HW1 due (Wed, 2/13)</span>
 
 - date: 2/18
-  lecturer: Eric
   title: >
     <strong>Sequential models</strong> <br />
     - Discrete Hidden State (HMM vs. CRF) <br />
@@ -163,7 +152,6 @@
 - title: "Module 2: Approximate Inference"
 
 - date: 2/20
-  lecturer: Eric
   title: >
     <strong>Approximate Inference: Mean Field (MF) and loopy Belief Propagation (BP) approximations</strong>
   slides: "https://drive.google.com/open?id=1qUNGOr3GUzMDEBWGajk4nyC70qS1sgje"
@@ -179,7 +167,6 @@
     <span class="deadline">Project proposal due (Fri, 2/22)</span>
 
 - date: 2/25
-  lecturer: Eric
   title: >
     <strong>Theory of Variational Inference: Inner and Outer Approximations</strong>
   slides: "https://drive.google.com/open?id=1lrTb1S_jNcN__ftEp3qH7fR-VgenTTss"
@@ -192,7 +179,6 @@
   logistics:
 
 - date: 2/27
-  lecturer: Eric
   title: >
     <strong>Approximate Inference: Monte Carlo and Sequential Monte Carlo methods</strong>
   slides: "https://drive.google.com/open?id=15BWU6u1mlKBR3OW7PcPN5W3G49vmTHPw"
@@ -205,7 +191,6 @@
   logistics:
 
 - date: 3/4
-  lecturer: Eric
   title: >
     <strong>Markov Chain Monte Carlo</strong> <br />
     - Metropolis-Hastings <br />
@@ -224,7 +209,6 @@
 - title: "Module 3: Deep Learning &amp; Generative Models"
 
 - date: 3/6
-  lecturer: Eric
   title: >
     <strong>Statistical and Algorithmic Foundations of Deep Learning</strong> <br />
     - Insight into DL <br />
@@ -248,7 +232,6 @@
   title: No classes (Spring break)
 
 - date: 3/18
-  lecturer: guest lecture, <a href="https://www.cs.cmu.edu/~zhitingh/" target="_blank">Zhiting Hu</a>
   title: >
     <strong>Building blocks of DL</strong> <br />
     - RNN and LSTM <br />
@@ -267,7 +250,6 @@
     <span class="event">HW3 out (Mon, 3/18)</span>
 
 - date: 3/20
-  lecturer: Eric
   title: >
     <strong>Deep generative models (part 1): <br />
     Overview of the theoretical basis and connections of deep generative models</strong> <br />
@@ -287,7 +269,6 @@
   logistics:
 
 - date: 3/25
-  lecturer: guest lecture, <a href="https://www.cs.cmu.edu/~zhitingh/" target="_blank">Zhiting Hu</a>
   title: >
     <strong>Deep generative models (part 2)</strong> <br />
     - GANs and their variations <br />
@@ -305,7 +286,6 @@
   logistics:
 
 - date: 3/27
-  lecturer: guest lecture, <a href="https://www.cs.cmu.edu/~zhitingh/" target="_blank">Zhiting Hu</a>
   title: >
     <strong>Case Study: Text Generation</strong> <br />
     - The encoder-decoder framework <br />
@@ -325,7 +305,6 @@
 - title: "Module 4: Reinforcement Learning &amp; Control Through Inference in GM"
 
 - date: 4/1
-  lecturer: Maruan
   title: >
     <strong>Sequential decision making (part 1): The framework</strong> <br />
     - Brief introduction to reinforcement learning (RL) <br />
@@ -345,7 +324,6 @@
   logistics:
 
 - date: 4/3
-  lecturer: Maruan
   title: >
     <strong>Sequential decision making (part 2): The algorithms</strong> <br />
     - Intro to RL algorithms: policy gradients and Q-learning <br />
@@ -366,7 +344,6 @@
 - title: "Module 5: Nonparametric methods"
 
 - date: 4/8
-  lecturer: Eric
   title: >
     <strong>Bayesian non-parameterics</strong> <br />
     - Dirichlet Process (DP) <br />
@@ -382,7 +359,6 @@
     <span class="event">HW4 out (Mon, 4/8)</span>
 
 - date: 4/10
-  lecturer: Maruan
   title: >
     <strong>Bayesian non-parameterics (continued)</strong> <br />
     - Inference in Dirichlet Process (DP) <br />
@@ -399,7 +375,6 @@
   logistics:
 
 - date: 4/15
-  lecturer: Eric
   title: >
     <strong>Integrative Paradigms of GM: Regularized Bayesian Methods</strong>
   slides: "https://drive.google.com/open?id=1EzldiYU29eBOG6Mo4WrxdrgZRTGYVLvx"
@@ -412,7 +387,6 @@
   logistics:
 
 - date: 4/17
-  lecturer: Eric
   title: >
     <strong>Elements of Spectral & Kernel GMs</strong>
   slides: "https://drive.google.com/open?id=1sPBzB2wXIYrnhIRH9V8umZ0FpJih4g46"
@@ -427,7 +401,6 @@
   logistics:
 
 - date: 4/22
-  lecturer: Maruan
   title: >
     <strong>Gaussian processes (GPs) and elements of meta-learning</strong> <br />
     - Gaussian Processes (GPs) and kernel functions <br />
@@ -448,7 +421,6 @@
 - title: "Module 6: Modular and scalable algorithms and systems"
 
 - date: 4/24
-  lecturer: guest lecture, <a href="https://sites.google.com/site/hoqirong/" target="_blank">Qirong Ho</a> 
   title: >
     <strong>Scalable algorithms and systems for learning, inference, and prediction</strong>
   slides: "https://drive.google.com/open?id=1ogZ6BEGb9wJhymRPXPtBmBw8Wirs7bhv"
@@ -464,7 +436,6 @@
     <span class="deadline">HW4 due (Mon, 4/24)</span>
 
 - date: 4/29
-  lecturer: Eric
   title: >
     <strong>A civil engineering perspective on AI</strong>
   slides: "https://drive.google.com/open?id=11jj5XNJFWtu3jxI7nu1tEaRXJfaNrHds"

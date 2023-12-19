@@ -6,16 +6,15 @@ description: HIST4701 • Spring 2024 • The Chinese University of Hong Kong
 logo: cuhk-logo.png
 news: true
 ---
-屌你老母
-This graduate-level course will provide you with a strong foundation for both applying graphical models to complex problems and for addressing core research topics in graphical models.
+
+
+This course provides a comprehensive introduction to Python programming, data science, and deployment using popular frameworks and tools. Students will gain a solid foundation in Python programming, develop their programming thinking skills, explore data manipulation and analysis with MongoDB, dive into machine learning techniques, understand natural language processing (NLP) concepts, and learn how to deploy their applications with Streamlit.
 
 ---
 
-- **Time:** Monday/Wednesday 12:00-1:20 pm
-- **Location:** [Posner Hall 152](https://www.google.com/maps/place/Posner+Hall/@40.4424422,-79.9448675){:target="\_blank"}
-- **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
-- **HW submission:** [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"}
-- **Online lectures:** The lectures will be live-streamed through [Panopto](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f44b4d7-fb4e-49eb-b88d-a9d00125e1b3){:target="\_blank"}, recorded, and made available on [YouTube](https://www.youtube.com/playlist?list=PLoZgVqqHOumTY2CAQHL45tQp6kmDnDcqn){:target="\_blank"}.
-- **Contact:** Students should ask all course-related questions on [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *10708-instructor@cs.cmu.edu*.
+- **Time:** 2 January 2024 to 14 January 2024 6:30-9:30 pm
+- **Location:** [Lai Chan Pui Ngong Lecture Theatre (LPN LT)](https://www.google.com/maps/place/Sir+Run+Run+Shaw+Hall/@22.4202151,114.2046367,17z/data=!4m14!1m7!3m6!1s0x34040884948a019f:0xdc542394ea7ccd23!2sThe+Chinese+University+of+Hong+Kong+Shaw+College+Lecture+Theatre!8m2!3d22.422331!4d114.201597!16s%2Fg%2F12h_d__ty!3m5!1s0x3404089c77bf6f99:0xfdbdc6ee71aea495!8m2!3d22.42013!4d114.2072076!16s%2Fg%2F11bccgrk04?entry=ttu){:target="\_blank"}
+- **HW submission:** [Github](https://github.com/pakkinlau/prog-for-humanists/issues){:target="\_blank"}
+- **Office hour:** Welcome sending email to pakkin.lau@link.cuhk.edu.hk and raise your questions. 
 
 ---

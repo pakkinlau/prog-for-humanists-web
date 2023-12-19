@@ -1,14 +1,14 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: SAILING lab
-name: 10-708 PGM
+author: Pak Kin LAU
+name: HIST4701
 title: Programming for humanists
-email: 10708-instructor@cs.cmu.edu
+email: pakkin.lau@link.cuhk.edu.hk
 description: >
   10-708 - Programming for humanists - The Chinese University of Hong Kong - Spring 2024
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -16,9 +16,9 @@ baseurl:  # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: sailinglab
+github_username: pakkinlau
 google_analytics: UA-131744305-1
-youtube_channel: UCim-E6bNz7lUyKZwhgN6S1A
+youtube_channel: CUHKchannel
 rss:  # notes rss
 
 # -----------------------------------------------------------------------------
