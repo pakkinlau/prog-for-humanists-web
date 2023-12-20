@@ -8,7 +8,9 @@
   readings:
     - 1. Github, <a href="https://docs.github.com/en/get-started" target="_blank">Get started with Github</a>
     - 2. Microsoft, <a href="https://code.visualstudio.com/docs/introvideos/basics" target="_blank">Get started with VS code</a>
+    - 3. Microsoft, <a href="https://learn.microsoft.com/en-us/training/paths/beginner-python/" target="_blank">Python for beginners</a>
     - "_assets/assignments/hw1/assignment_v1.1.pdf"
+  
   logistics:
     - Weekly Writing X1
 
@@ -17,8 +19,8 @@
     <strong>Structured data wrangling</strong>
     - Numpy
     - Pandas
-  slides:
-  ipynb:
+  slides: https://docs.google.com/presentation/d/1fz-IHdIhDk3EcaWcgNb5_TkrM5XXfZl-YAx5EsXUrZc/edit#slide=id.g2a8a698d9b2_1_72
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%201c%20-%20Structuerd%20data
   readings:
     - 1. Wes McKinney (Creator of pandas), <a href="https://wesmckinney.com/book/numpy-basics" target="_blank">Python for Data Analysis, 3E</a>, <a href="https://github.com/wesm/pydata-book" target="_blank">Repository</a>
     - 2. PyData, <a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank">Pandas get started</a>
@@ -29,7 +31,7 @@
   title: >
     <strong>Unstructured data processing and information extraction</strong>
   slides:
-  ipynb:
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%201a%20-%20Unstructured%20data
   readings:
     - 1. Hugging Face, <a href="https://github.com/nlp-with-transformers/notebooks" target="_blank">Natural Language Processing with Transformers</a>
     - 2. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 2)
@@ -43,9 +45,9 @@
 - date: 13/13
   title: >
     <strong>Setup atlas database, document models and data modeling</strong>
-  slides:
-  ipynb:
-  readings:
+  slides: https://docs.google.com/presentation/d/1pqhmTtlsgLsdB1EQatZDx4G0MQvuM3hV4xhHNIoYcEE/edit#slide=id.g2a8aa351b95_0_42
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202a%20%20-%20Setting%20up%20MongoDB
+  readings: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202a%20%20-%20Setting%20up%20MongoDB
     - 1. MongoDB, <a href="https://drive.google.com/drive/folders/1U9WPFkIKBLELqHj7mfh76Bw1u5eFpwqg" target="_blank">Introduction to Modern Databases with MongoDB</a>
     - 2. MongoDB, <a href="https://www.mongodb.com/basics#documents" target="_blank">MongoDB document model</a>
     - 3. MongoDB, <a href="https://www.mongodb.com/basics/data-modeling" target="_blank">A Comprehensive Guide to Data Modeling</a>
@@ -57,7 +59,7 @@
   title: >
     <strong>CRUD operations and aggregation frameworks</strong>
   slides:
-  ipynb:
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202b%20-%20CRUD%20operations
   readings:
     - 1. MongoDB, <a href="https://drive.google.com/drive/folders/1U9WPFkIKBLELqHj7mfh76Bw1u5eFpwqg" target="_blank">Introduction to Modern Databases with MongoDB</a>
     - 2. MongoDB, <a href="https://www.mongodb.com/docs/manual/aggregation/" target="_blank">MongoDB aggregation frameworks</a>
@@ -71,7 +73,7 @@
   title: >
     <strong>Enabling vector search with mongoDB atlas</strong>
   slides:
-  ipynb:
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202b%20-%20CRUD%20operations
   readings:
     - 1. MongoDB, <a href="https://www.mongodb.com/developer/products/atlas/building-generative-ai-applications-vector-search-open-source-models/" target="_blank">Harnessing the Power of Atlas Vector Search and Open Source Models</a>
     - 2. MongoDB, <a href="https://www.mongodb.com/docs/atlas/atlas-search/field-types/knn-vector/" target="_blank">How to Index Vector Embeddings for Vector Search</a>
@@ -86,8 +88,8 @@
 - date: 13/13
   title: >
     <strong>Machine learning and neural network</strong>
-  slides:
-  ipynb:
+  slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3a%20-%20Neural%20network%20basics.md
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203a%20-%20Basics%20of%20machinel%20learning
   readings:
     - 1. Google, <a href="https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground" target="_blank">Understanding neural networks with TensorFlow Playground</a>
     - 2. Tensorflow, <a href="https://www.tensorflow.org/tutorials/quickstart/beginner" target="_blank">TensorFlow 2 quickstart for beginners</a>
@@ -98,8 +100,8 @@
 - date: 13/13
   title: >
     <strong>Static and contextual word embeddings</strong>
-  slides:
-  ipynb:
+  slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3b%20-%20Embeddings%20in%20Machine%20Learning.md
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203b%20-%20Understanding%20word%20embeddings
   readings:
     - 1. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 6,7,10)
 
@@ -109,8 +111,8 @@
 - date: 13/13
   title: >
     <strong>Fine-tuning word embeddings</strong>
-  slides:
-  ipynb:
+  slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3c%20-%20Fine-tuning.md
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203c%20-%20%20Fine-tuning%20word%20embeddings
   readings:
     - 1. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 11)
 
@@ -126,7 +128,7 @@
     - pandas
     - plotly
   slides:
-  ipynb:
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204b%20-%20Visualization
   readings:
     - 1. Wes McKinney (Creator of pandas), <a href="https://wesmckinney.com/book/numpy-basics" target="_blank">Python for Data Analysis, 3E</a>, <a href="https://github.com/wesm/pydata-book" target="_blank">Repository</a>
     - 2. Plotly, <a href="https://plotly.com/python/" target="_blank">Plotly documentation</a>
@@ -138,7 +140,7 @@
   title: >
     <strong>Creating interactive web application with streamlit</strong>
   slides:
-  ipynb:
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204c%20-%20Streamlit
   readings:
     - 1. Streamlit, <a href="https://docs.streamlit.io/library/get-started" target="_blank">Streamlit get started</a> (Chapter 11)
 
@@ -150,7 +152,7 @@
   title: >
     <strong>Project deployment</strong>
   slides:
-  ipynb:
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204d%20-%20Deployment
   readings:
     - 1. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 11)
 
