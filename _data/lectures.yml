@@ -44,10 +44,10 @@
 
 - date: 13/13
   title: >
-    <strong>Setup atlas database, document models and data modeling</strong>
+    <strong>Setup MongoDB Atlas database, document models and data modeling</strong>
   slides: https://docs.google.com/presentation/d/1pqhmTtlsgLsdB1EQatZDx4G0MQvuM3hV4xhHNIoYcEE/edit#slide=id.g2a8aa351b95_0_42
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202a%20%20-%20Setting%20up%20MongoDB
-  readings: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202a%20%20-%20Setting%20up%20MongoDB
+  readings: 
     - 1. MongoDB, <a href="https://drive.google.com/drive/folders/1U9WPFkIKBLELqHj7mfh76Bw1u5eFpwqg" target="_blank">Introduction to Modern Databases with MongoDB</a>
     - 2. MongoDB, <a href="https://www.mongodb.com/basics#documents" target="_blank">MongoDB document model</a>
     - 3. MongoDB, <a href="https://www.mongodb.com/basics/data-modeling" target="_blank">A Comprehensive Guide to Data Modeling</a>
@@ -81,7 +81,7 @@
 
   logistics: >
     - Weekly Writing X1
-    - <span class="deadline">HW1 due (Wed, 14/13)</span>
+    - <span class="deadline">HW2 due (Wed, 14/13)</span>
 
 - title: "Module 3: Machine learning and fine-tuning word embeddings"
 
@@ -118,7 +118,7 @@
 
   logistics: >
     - Weekly Writing X1
-    - <span class="deadline">HW1 due (Wed, 14/13)</span>
+    - <span class="deadline">HW3 due (Wed, 14/13)</span>
 
 - title: "Module 4: Interactive data visualization and web application deployment"
 
@@ -158,7 +158,7 @@
 
   logistics: >
     - Weekly Writing X1
-    - <span class="deadline">HW1 due (Wed, 14/13)</span>
+    - <span class="deadline">HW4 due (Wed, 14/13)</span>
 
 
 - date: 40/30
