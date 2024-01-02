@@ -16,25 +16,27 @@
 
 - date: 13/13
   title: >
-    <strong>Structured data wrangling</strong>
-    - Numpy
-    - Pandas
+    <strong>Processing unstructured data and revisiting programming paradigms</strong>
   slides: https://docs.google.com/presentation/d/1fz-IHdIhDk3EcaWcgNb5_TkrM5XXfZl-YAx5EsXUrZc/edit#slide=id.g2a8a698d9b2_1_72
-  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%201c%20-%20Structuerd%20data
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%201a%20-%20Unstructured%20data
   readings:
-    - 1. Wes McKinney (Creator of pandas), <a href="https://wesmckinney.com/book/numpy-basics" target="_blank">Python for Data Analysis, 3E</a>, <a href="https://github.com/wesm/pydata-book" target="_blank">Repository</a>
-    - 2. PyData, <a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank">Pandas get started</a>
+    - 1. Hugging Face, <a href="https://github.com/nlp-with-transformers/notebooks" target="_blank">Natural Language Processing with Transformers</a>
+    - 2. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 2)
+    - 3. Stanford University - <a href="https://stanfordnlp.github.io/stanza/" target="_blank">Stanza (NLP package) - Github repository</a>
+    - 4. Hugging Face, <a href="https://huggingface.co/docs/transformers/model_doc/trocr" target="_blank">TrOCR, Transformer-based Optical Character Recognition</a>
   logistics:
     - Weekly Writing X1
 
 - date: 13/13
   title: >
     <strong>Unstructured data processing and information extraction</strong>
-  slides:
+  slides: https://docs.google.com/presentation/d/1mcS9j51Jx33ZPGKQw1SuvnRXWGBupL1AuSwOHbenVrM/edit#slide=id.p
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%201a%20-%20Unstructured%20data
   readings:
     - 1. Hugging Face, <a href="https://github.com/nlp-with-transformers/notebooks" target="_blank">Natural Language Processing with Transformers</a>
     - 2. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 2)
+    - 1. Wes McKinney (Creator of pandas), <a href="https://wesmckinney.com/book/numpy-basics" target="_blank">Python for Data Analysis, 3E</a>, <a href="https://github.com/wesm/pydata-book" target="_blank">Repository</a>
+    - 2. PyData, <a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank">Pandas get started</a>
   logistics:
     - Weekly Writing X1
     - <span class="deadline">HW1 due (Wed, 14/13)</span>
@@ -44,7 +46,7 @@
 
 - date: 13/13
   title: >
-    <strong>Setup MongoDB Atlas database, document models and data modeling</strong>
+    <strong>Setup MongoDB Atlas and environemnt, establish connection and CRUD operations</strong>
   slides: https://docs.google.com/presentation/d/1pqhmTtlsgLsdB1EQatZDx4G0MQvuM3hV4xhHNIoYcEE/edit#slide=id.g2a8aa351b95_0_42
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202a%20%20-%20Setting%20up%20MongoDB
   readings: 
@@ -57,9 +59,9 @@
 
 - date: 13/13
   title: >
-    <strong>CRUD operations and aggregation frameworks</strong>
-  slides:
-  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202b%20-%20CRUD%20operations
+    <strong>Data modeling and database schema design in mongoDB atlas</strong>
+  slides: https://docs.google.com/presentation/d/1p5AYBbHmbWaj4ZCGv_UVLq3ym8kg3XQlKKhJ2BEl4yc/edit?usp=sharing
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202b%20-%20Data%20modeling%2C%20database%20modeling
   readings:
     - 1. MongoDB, <a href="https://drive.google.com/drive/folders/1U9WPFkIKBLELqHj7mfh76Bw1u5eFpwqg" target="_blank">Introduction to Modern Databases with MongoDB</a>
     - 2. MongoDB, <a href="https://www.mongodb.com/docs/manual/aggregation/" target="_blank">MongoDB aggregation frameworks</a>
@@ -71,9 +73,9 @@
 
 - date: 13/13
   title: >
-    <strong>Enabling vector search with mongoDB atlas</strong>
-  slides:
-  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202b%20-%20CRUD%20operations
+    <strong>Aggregation framework and vector search in mongoDB atlas</strong>
+  slides: https://docs.google.com/presentation/d/10HfA81SuRqLmIpckxPUD5bKA7Ue5i1dO_FLiFW4l5SM/edit?usp=sharing
+  ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202c%20-%20aggregation%20framework%2C%20vector%20search
   readings:
     - 1. MongoDB, <a href="https://www.mongodb.com/developer/products/atlas/building-generative-ai-applications-vector-search-open-source-models/" target="_blank">Harnessing the Power of Atlas Vector Search and Open Source Models</a>
     - 2. MongoDB, <a href="https://www.mongodb.com/docs/atlas/atlas-search/field-types/knn-vector/" target="_blank">How to Index Vector Embeddings for Vector Search</a>
