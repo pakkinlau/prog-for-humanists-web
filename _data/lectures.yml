@@ -5,7 +5,7 @@
     <strong>Introduction and environment setups</strong>
   slides: "https://docs.google.com/presentation/d/1O5z15EdfpT5E9EgGuV-xZsY8M0t6w7QqKCFfeJJBTQE/edit#slide=id.g26435cf8a4c_0_766"
   ipynb: "https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%200"
-  project: <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 0 - Setting up github profile, vscode, python compiler, copilot extension</a>
+  projects: <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 0 - Setting up github profile, vscode, python compiler, copilot extension</a>
   readings:
     - 1. Github, <a href="https://docs.github.com/en/get-started" target="_blank">Get started with Github</a>
     - 2. Microsoft, <a href="https://code.visualstudio.com/docs/introvideos/basics" target="_blank">Get started with VS code</a>
@@ -20,7 +20,7 @@
     <strong>Processing hamanity subject unstructured data and revisiting programming paradigms</strong>
   slides: https://docs.google.com/presentation/d/1fz-IHdIhDk3EcaWcgNb5_TkrM5XXfZl-YAx5EsXUrZc/edit#slide=id.g2a8a698d9b2_1_72
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%201a%20-%20Unstructured%20data
-  project: <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 0 - Setting up github profile, vscode, python compiler, copilot extension</a>
+  projects: <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 0 - Setting up github profile, vscode, python compiler, copilot extension</a>
   readings:
     - 1. Hugging Face, <a href="https://huggingface.co/docs/transformers/model_doc/trocr" target="_blank">TrOCR, Transformer-based Optical Character Recognition</a>
   logistics:
