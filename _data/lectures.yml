@@ -16,25 +16,24 @@
 
 - date: 13/13
   title: >
-    <strong>Processing unstructured data and revisiting programming paradigms</strong>
+    <strong>Processing hamanity subject unstructured data and revisiting programming paradigms</strong>
   slides: https://docs.google.com/presentation/d/1fz-IHdIhDk3EcaWcgNb5_TkrM5XXfZl-YAx5EsXUrZc/edit#slide=id.g2a8a698d9b2_1_72
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%201a%20-%20Unstructured%20data
   readings:
     - 1. Hugging Face, <a href="https://github.com/nlp-with-transformers/notebooks" target="_blank">Natural Language Processing with Transformers</a>
-    - 2. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 2)
-    - 3. Stanford University - <a href="https://stanfordnlp.github.io/stanza/" target="_blank">Stanza (NLP package) - Github repository</a>
-    - 4. Hugging Face, <a href="https://huggingface.co/docs/transformers/model_doc/trocr" target="_blank">TrOCR, Transformer-based Optical Character Recognition</a>
+    - 2. Stanford University - <a href="https://stanfordnlp.github.io/stanza/" target="_blank">Stanza (NLP package) - Github repository</a>
+    - 3. Hugging Face, <a href="https://huggingface.co/docs/transformers/model_doc/trocr" target="_blank">TrOCR, Transformer-based Optical Character Recognition</a>
   logistics:
     - Weekly Writing X1
 
 - date: 13/13
   title: >
-    <strong>Unstructured data processing and information extraction</strong>
+    <strong>Structured Data processing and basic data analytics</strong>
   slides: https://docs.google.com/presentation/d/1mcS9j51Jx33ZPGKQw1SuvnRXWGBupL1AuSwOHbenVrM/edit#slide=id.p
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%201a%20-%20Unstructured%20data
   readings:
     - 1. Hugging Face, <a href="https://github.com/nlp-with-transformers/notebooks" target="_blank">Natural Language Processing with Transformers</a>
-    - 2. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 2)
+    - 2. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Chapter 2, Speech and Language Processing (3rd ed.)</a>
     - 1. Wes McKinney (Creator of pandas), <a href="https://wesmckinney.com/book/numpy-basics" target="_blank">Python for Data Analysis, 3E</a>, <a href="https://github.com/wesm/pydata-book" target="_blank">Repository</a>
     - 2. PyData, <a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank">Pandas get started</a>
   logistics:
@@ -89,34 +88,37 @@
 
 - date: 13/13
   title: >
-    <strong>Machine learning and neural network</strong>
+    <strong>Introduction to machine learning and neural networks</strong>
   slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3a%20-%20Neural%20network%20basics.md
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203a%20-%20Basics%20of%20machinel%20learning
   readings:
     - 1. Google, <a href="https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground" target="_blank">Understanding neural networks with TensorFlow Playground</a>
     - 2. Tensorflow, <a href="https://www.tensorflow.org/tutorials/quickstart/beginner" target="_blank">TensorFlow 2 quickstart for beginners</a>
-
+    - 3. Harvard University, <a href="https://cs50.harvard.edu/ai/2024/notes/4/" target="_blank">Lecture 4, Machine Learning, CS50’s Introduction to Artificial Intelligence with Python</a>
+    - 4. Harvard University, <a href="https://cs50.harvard.edu/ai/2024/weeks/5/" target="_blank">Lecture 5, Neural Networks, CS50’s Introduction to Artificial Intelligence with Python</a>
+    
   logistics: >
     - Weekly Writing X1
 
 - date: 13/13
   title: >
-    <strong>Static and contextual word embeddings</strong>
+    <strong>Numerical representations of Languages</strong>
   slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3b%20-%20Embeddings%20in%20Machine%20Learning.md
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203b%20-%20Understanding%20word%20embeddings
   readings:
-    - 1. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 6,7,10)
+    - 1. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Chapter 6,7,10, Speech and Language Processing (3rd ed.)</a>
+    - 2. Harvard University, <a href="https://cs50.harvard.edu/ai/2024/weeks/6/" target="_blank">Lecture 6, Languages, CS50’s Introduction to Artificial Intelligence with Python</a>
 
   logistics: >
     - Weekly Writing X1
 
 - date: 13/13
   title: >
-    <strong>Fine-tuning word embeddings</strong>
+    <strong>Fine-tuning word embeddings for text data analysis</strong>
   slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3c%20-%20Fine-tuning.md
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203c%20-%20%20Fine-tuning%20word%20embeddings
   readings:
-    - 1. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 11)
+    - 1. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Chapter 11, Speech and Language Processing (3rd ed.)</a>
 
   logistics: >
     - Weekly Writing X1
@@ -144,7 +146,8 @@
   slides:
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204c%20-%20Streamlit
   readings:
-    - 1. Streamlit, <a href="https://docs.streamlit.io/library/get-started" target="_blank">Streamlit get started</a> (Chapter 11)
+    - 1. Streamlit, <a href="https://docs.streamlit.io/library/get-started" target="_blank">Streamlit get started</a> 
+    - 2. William J.B. Mattingly, <a href="https://python-textbook.pythonhumanities.com/05_streamlit/05_01_01_intro.html" target="_blank">Chapter 5, Introduction to python for humanists</a> 
 
   logistics: >
     - Weekly Writing X1
@@ -156,7 +159,7 @@
   slides:
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204d%20-%20Deployment
   readings:
-    - 1. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Speech and Language Processing (3rd ed.)</a> (Chapter 11)
+    - 1. HuggingFace, <a href="https://huggingface.co/docs/hub/spaces-sdks-streamlit" target="_blank">Streamlit space, HuggingFace</a>
 
   logistics: >
     - Weekly Writing X1
