@@ -35,7 +35,7 @@
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%201a%20-%20Unstructured%20data
   projects: 
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 1b - Parsing JSON response from server into tablar data</a>
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 1c - Exploring Hong Kong government data in pandas</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 1c - Exploring Hong Kong government data in pandas</a>
   readings:
     - 1. Hugging Face, <a href="https://github.com/nlp-with-transformers/notebooks" target="_blank">Natural Language Processing with Transformers</a>
     - 2. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Chapter 2, Speech and Language Processing (3rd ed.)</a>
@@ -53,7 +53,7 @@
   slides: https://docs.google.com/presentation/d/1pqhmTtlsgLsdB1EQatZDx4G0MQvuM3hV4xhHNIoYcEE/edit#slide=id.g2a8aa351b95_0_42
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202a%20%20-%20Setting%20up%20MongoDB
   projects: 
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 2a - Setting up a mongoDB database for history archives</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 2a - Setting up a mongoDB database for history archives</a>
   readings: 
     - 1. MongoDB, <a href="https://drive.google.com/drive/folders/1U9WPFkIKBLELqHj7mfh76Bw1u5eFpwqg" target="_blank">Introduction to Modern Databases with MongoDB</a>
     - 2. MongoDB, <a href="https://www.mongodb.com/basics#documents" target="_blank">MongoDB document model</a>
@@ -68,7 +68,7 @@
   slides: https://docs.google.com/presentation/d/1p5AYBbHmbWaj4ZCGv_UVLq3ym8kg3XQlKKhJ2BEl4yc/edit?usp=sharing
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202b%20-%20Data%20modeling%2C%20database%20modeling
   projects: 
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 2b2c - Schema Design for a history archive database</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 2b2c - Schema Design for a history archive database</a>
   readings:
     - 1. MongoDB, <a href="https://drive.google.com/drive/folders/1U9WPFkIKBLELqHj7mfh76Bw1u5eFpwqg" target="_blank">Introduction to Modern Databases with MongoDB</a>
     - 2. MongoDB, <a href="https://www.mongodb.com/docs/manual/indexes/" target="_blank">Indexes, MongoDB</a>
@@ -84,8 +84,8 @@
   slides: https://docs.google.com/presentation/d/10HfA81SuRqLmIpckxPUD5bKA7Ue5i1dO_FLiFW4l5SM/edit?usp=sharing
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%202c%20-%20aggregation%20framework%2C%20vector%20search
   projects: 
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 2d - Searching a document based on semantiic meaning similarity</a>
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 2e - Analyzing book sales data with aggregation pipeline</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 2d - Searching a document based on semantiic meaning similarity</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 2e - Analyzing book sales data with aggregation pipeline</a>
   readings:
     - 1. MongoDB, <a href="https://drive.google.com/drive/folders/1U9WPFkIKBLELqHj7mfh76Bw1u5eFpwqg" target="_blank">Introduction to Modern Databases with MongoDB</a>
     - 2. MongoDB, <a href="https://www.mongodb.com/docs/manual/aggregation/" target="_blank">MongoDB aggregation frameworks</a>
@@ -105,7 +105,7 @@
   slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3a%20-%20Neural%20network%20basics.md
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203a%20-%20Basics%20of%20machinel%20learning
   projects: 
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 3a - Building simple neural network to predict wine quality</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 3a - Building simple neural network to predict wine quality</a>
   readings:
     - 1. Google, <a href="https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground" target="_blank">Understanding neural networks with TensorFlow Playground</a>
     - 2. Tensorflow, <a href="https://www.tensorflow.org/tutorials/quickstart/beginner" target="_blank">TensorFlow 2 quickstart for beginners</a>
@@ -121,7 +121,7 @@
   slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3b%20-%20Embeddings%20in%20Machine%20Learning.md
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203b%20-%20Understanding%20word%20embeddings
   projects: 
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 3b - Sentiment analysis for newspaper dataset</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 3b - Sentiment analysis for newspaper dataset</a>
   readings:
     - 1. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Chapter 6,7,10, Speech and Language Processing (3rd ed.)</a>
     - 2. Harvard University, <a href="https://cs50.harvard.edu/ai/2024/weeks/6/" target="_blank">Lecture 6, Languages, CS50’s Introduction to Artificial Intelligence with Python</a>
@@ -137,7 +137,7 @@
   slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3c%20-%20Fine-tuning.md
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203c%20-%20%20Fine-tuning%20word%20embeddings
   projects: 
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 3c - Improving text analysis model performance with labelled dataset</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 3c - Improving text analysis model performance with labelled dataset</a>
   readings:
     - 1. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Chapter 11, Speech and Language Processing (3rd ed.)</a>
 
@@ -155,7 +155,7 @@
   slides:
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204b%20-%20Visualization
   projects: 
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 4a - Exploring Goodreads Books dataset</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 4a - Exploring Goodreads Books dataset</a>
   readings:
     - 1. Wes McKinney (Creator of pandas), <a href="https://wesmckinney.com/book/numpy-basics" target="_blank">Python for Data Analysis, 3E</a>, <a href="https://github.com/wesm/pydata-book" target="_blank">Repository</a>
     - 2. Plotly, <a href="https://plotly.com/python/" target="_blank">Plotly documentation</a>
@@ -169,7 +169,7 @@
   slides:
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204c%20-%20Streamlit
   projects: 
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 4b - Creating interactive historical timeline with plotly</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 4b - Creating interactive historical timeline with plotly</a>
   readings:
     - 1. Streamlit, <a href="https://docs.streamlit.io/library/get-started" target="_blank">Streamlit get started</a> 
     - 2. William J.B. Mattingly, <a href="https://python-textbook.pythonhumanities.com/05_streamlit/05_01_01_intro.html" target="_blank">Chapter 5, Introduction to python for humanists</a> 
@@ -184,7 +184,7 @@
   slides:
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204d%20-%20Deployment
   projects: 
-    -  <a href="https://docs.github.com/en/get-started" target="_blank"Exercise 4c - Building a Database Query Application</a>
+    -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 4c - Building a Database Query Application</a>
   readings:
     - 1. HuggingFace, <a href="https://huggingface.co/docs/hub/spaces-sdks-streamlit" target="_blank">Streamlit space, HuggingFace</a>
 
