@@ -46,6 +46,15 @@ title: Schedule
         ]
     </td>
     <td>
+        {% if lecture.projects %}
+        <ul>
+        {% for project in lecture.projects %}
+            <li>{{ project }}</li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+    </td>
+    <td>
         {% if lecture.readings %}
         <ul>
         {% for reading in lecture.readings %}
