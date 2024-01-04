@@ -2,7 +2,7 @@
 
 - date: 13/13
   title: >
-    <strong>Introduction, environment setups, basic programming walk-through</strong>
+    <strong>Introduction and environment setups</strong>
   slides: "https://docs.google.com/presentation/d/1O5z15EdfpT5E9EgGuV-xZsY8M0t6w7QqKCFfeJJBTQE/edit#slide=id.g26435cf8a4c_0_766"
   ipynb: "https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%200"
   readings:
