@@ -102,7 +102,7 @@
 - date: 13/13
   title: >
     <strong>Introduction to machine learning and neural networks</strong>
-  slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3a%20-%20Neural%20network%20basics.md
+  slides: https://docs.google.com/presentation/d/1pEhhu-6JJgirak1D9afyzt7chKPPBqhajPbCfHDKZGY/edit#slide=id.p
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203a%20-%20Basics%20of%20machinel%20learning
   projects: 
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 3a - Building simple neural network to predict wine quality</a>
@@ -118,7 +118,7 @@
 - date: 13/13
   title: >
     <strong>Numerical representations of Languages</strong>
-  slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3b%20-%20Embeddings%20in%20Machine%20Learning.md
+  slides: https://docs.google.com/presentation/d/1lei-5W3-4X9uOD1c5MZ_1q4ExLzNGojFixvsqubDHR8/edit#slide=id.p
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203b%20-%20Understanding%20word%20embeddings
   projects: 
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 3b - Sentiment analysis for newspaper dataset</a>
@@ -134,7 +134,7 @@
 - date: 13/13
   title: >
     <strong>Fine-tuning word embeddings for text data analysis</strong>
-  slides: https://github.com/pakkinlau/prog-for-humanists/blob/main/slides/Unit%203/slide3c%20-%20Fine-tuning.md
+  slides: https://docs.google.com/presentation/d/1PcnNiNathWWq6hTmIKo0ppOg1JrfYtAwk7jziy2HZ_c/edit#slide=id.p
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%203c%20-%20%20Fine-tuning%20word%20embeddings
   projects: 
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 3c - Improving text analysis model performance with labelled dataset</a>
@@ -152,7 +152,7 @@
     <strong>Exploratory data analysis and interactive data visualization</strong>
     - pandas
     - plotly
-  slides:
+  slides: https://docs.google.com/presentation/d/1TVxBpzVjAYetikbas4B6n-vvd_i3F434zpWZLvWxLDM/edit?usp=sharing
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204b%20-%20Visualization
   projects: 
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 4a - Exploring Goodreads Books dataset</a>
@@ -166,7 +166,7 @@
 - date: 13/13
   title: >
     <strong>Creating interactive web application with streamlit</strong>
-  slides:
+  slides: https://docs.google.com/presentation/d/1wFauGLQb8HCCe1eOrtCh64W6f0x6prhwlPVq-84AqU0/edit?usp=sharing
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204c%20-%20Streamlit
   projects: 
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 4b - Creating interactive historical timeline with plotly</a>
@@ -181,7 +181,7 @@
 - date: 13/13
   title: >
     <strong>Project deployment</strong>
-  slides:
+  slides: https://docs.google.com/presentation/d/18g_gIJ1ZawSu_2lq0hcKCmIXev4WaxhFdwaiiMw87vI/edit#slide=id.p
   ipynb: https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs/Unit%204d%20-%20Deployment
   projects: 
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 4c - Building a Database Query Application</a>
