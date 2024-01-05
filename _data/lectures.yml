@@ -9,8 +9,10 @@
   readings:
     - 1. Github, <a href="https://docs.github.com/en/get-started" target="_blank">Get started with Github</a>
     - 2. Microsoft, <a href="https://code.visualstudio.com/docs/introvideos/basics" target="_blank">Get started with VS code</a>
-    - 3. Microsoft, <a href="https://learn.microsoft.com/en-us/training/paths/beginner-python/" target="_blank">Python for beginners</a>
+    - 3. Microsoft learn, <a href="https://learn.microsoft.com/en-us/training/paths/beginner-python/" target="_blank">Python for beginners</a>
     - "_assets/assignments/hw1/assignment_v1.1.pdf"
+    - 4. Github, <a href="https://education.github.com/pack" target="_blank">GitHub Student Developer Pack</a>
+    - 5. Microsoft learn, <a href="https://learn.microsoft.com/en-us/training/modules/python-create-run-jupyter-notebook/1-introductionk" target="_blank">Running python projects with Jupyter notebook files</a>
   
   logistics:
     - Weekly Writing X1
@@ -24,7 +26,12 @@
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 1a1 - Drafting design diagrams for a PDF extractor</a>
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 1a2 - Writing a PDF extractor program</a>
   readings:
-    - 1. Hugging Face, <a href="https://huggingface.co/docs/transformers/model_doc/trocr" target="_blank">TrOCR, Transformer-based Optical Character Recognition</a>
+    - 1. FreeCodeCamp, <a href="https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/" target="_blank">Programming Paradigms – Paradigm Examples for Beginners</a>
+    - 2. MOOC UML, <a href="https://www.youtube.com/watch?v=tKy85WODAUk" target="_blank">MOOC UML 11 Creating a Class Diagram Example University Information System</a>
+    - 3. PlantUML, <a href="https://plantuml.com/starting" target="_blank">PlantUML at a Glance</a>
+    - 4. Hugging Face, <a href="https://huggingface.co/docs/transformers/model_doc/trocr" target="_blank">TrOCR, Transformer-based Optical Character Recognition</a>
+    - 5. Hugging Face, <a href="https://github.com/nlp-with-transformers/notebooks" target="_blank">Natural Language Processing with Transformers</a>
+  
   logistics:
     - Weekly Writing X1
 
@@ -37,10 +44,14 @@
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 1b - Parsing JSON response from server into tablar data</a>
     -  <a href="https://docs.github.com/en/get-started" target="_blank">Exercise 1c - Exploring Hong Kong government data in pandas</a>
   readings:
-    - 1. Hugging Face, <a href="https://github.com/nlp-with-transformers/notebooks" target="_blank">Natural Language Processing with Transformers</a>
-    - 2. Dan Jurafsky and James H. Martin, <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">Chapter 2, Speech and Language Processing (3rd ed.)</a>
-    - 1. Wes McKinney (Creator of pandas), <a href="https://wesmckinney.com/book/numpy-basics" target="_blank">Python for Data Analysis, 3E</a>, <a href="https://github.com/wesm/pydata-book" target="_blank">Repository</a>
+    - 1. Wes McKinney (Creator of pandas), <a href="https://wesmckinney.com/book/pandas-basics" target="_blank">Chapter 5, Python for Data Analysis, 3E</a>, <a href="https://github.com/wesm/pydata-book" target="_blank">Repository</a>
     - 2. PyData, <a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank">Pandas get started</a>
+    - 3. Geek4Geek, <a href="https://www.geeksforgeeks.org/serializing-json-data-in-python/" target="_blank">Serializing JSON data in Python</a>
+    - 4. Atlassian, <a href="https://www.atlassian.com/data/sql/how-indexing-works" target="_blank">What is Indexing?</a>
+    - 5. Wikiwand, <a href="https://www.wikiwand.com/en/Relational_database" target="_blank"Relational Database (Section - Keys, Terminology, Constraints, Relational operations)</a>
+
+
+
   logistics:
     - Weekly Writing X1
     - <span class="deadline">HW1 due (Wed, 14/13)</span>
