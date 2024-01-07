@@ -13,7 +13,8 @@
     - "_assets/assignments/hw1/assignment_v1.1.pdf"
     - 4. Github, <a href="https://education.github.com/pack" target="_blank">GitHub Student Developer Pack</a>
     - 5. Microsoft learn, <a href="https://learn.microsoft.com/en-us/training/modules/python-create-run-jupyter-notebook/1-introductionk" target="_blank">Running python projects with Jupyter notebook files</a>
-  
+    - 6. Quinn Dombrowski et al, <a href="https://programminghistorian.org/en/lessons/jupyter-notebooks" target="_blank">Introduction to Jupyter Notebooks, Programming Historian</a>
+
   logistics:
     - Weekly Writing X1
 
@@ -31,6 +32,9 @@
     - 3. PlantUML, <a href="https://plantuml.com/starting" target="_blank">PlantUML at a Glance</a>
     - 4. Hugging Face, <a href="https://huggingface.co/docs/transformers/model_doc/trocr" target="_blank">TrOCR, Transformer-based Optical Character Recognition</a>
     - 5. Hugging Face, <a href="https://github.com/nlp-with-transformers/notebooks" target="_blank">Natural Language Processing with Transformers</a>
+    - 6. William J. Turkel et al, <a href="https://programminghistorian.org/en/lessons/code-reuse-and-modularity" target="_blank">Code Reuse and Modularity in Python, Programming historican</a>
+    - 7. William J. Turkel et al, <a href="https://programminghistorian.org/en/lessons/creating-and-viewing-html-files-with-python" target="_blank">Creating and Viewing HTML Files with Python, Programming historican</a>
+    - 8. William J. Turkel et al, <a href="https://programminghistorian.org/en/lessons/manipulating-strings-in-python" target="_blank">Manipulating Strings in Python, Programming historican</a>
   
   logistics:
     - Weekly Writing X1
@@ -138,6 +142,7 @@
     - 2. Harvard University, <a href="https://cs50.harvard.edu/ai/2024/weeks/6/" target="_blank">Lecture 6, Languages, CS50’s Introduction to Artificial Intelligence with Python</a>
     - 3. Hugging Face, <a href="https://github.com/nlp-with-transformers/notebooks" target="_blank">Natural Language Processing with Transformers</a>
     - 4. Stanford University - <a href="https://stanfordnlp.github.io/stanza/" target="_blank">Stanza (NLP package) - Github repository</a>
+    - 5. William J. Turkel et al. - <a href="https://programminghistorian.org/en/lessons/normalizing-data" target="_blank">Normalizing Textual Data with Python, Programming humanists</a>
 
   logistics: >
     - Weekly Writing X1
@@ -170,6 +175,7 @@
   readings:
     - 1. Wes McKinney (Creator of pandas), <a href="https://wesmckinney.com/book/numpy-basics" target="_blank">Python for Data Analysis, 3E</a>, <a href="https://github.com/wesm/pydata-book" target="_blank">Repository</a>
     - 2. Plotly, <a href="https://plotly.com/python/" target="_blank">Plotly documentation</a>
+    - 3. Grace Di Méo, <a href="https://programminghistorian.org/en/lessons/interactive-visualization-with-plotly" target="_blank">Creating Interactive Visualizations with Plotly, Programming historian</a>
 
   logistics: >
     - Weekly Writing X1
