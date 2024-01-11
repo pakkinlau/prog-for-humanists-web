@@ -10,7 +10,7 @@ This course provides a comprehensive introduction to programming tools using pop
 
 ---
 
-- **Time:** 15 January 2024 to 4 March 2024 6:30-9:30 pm
+- **Time:** 15 January 2024 to 4 March 2024 1:30-3:30 pm
 - **Location:** [UCC 205 (2/F), T.C. Cheng Building (UCC)](http://www.avsu.cuhk.edu.hk/en/classroom_service/upper_level_rooms_detail/14/){:target="\_blank"}
 - **HW submission:** [Github](https://github.com/pakkinlau/prog-for-humanists/issues){:target="\_blank"}
 - **Office hour:** Welcome sending email to [pakkinlau@cuhk.edu.hk](mailto:pakkinlau@cuhk.edu.hk) and raise your questions.
