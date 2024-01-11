@@ -1,6 +1,6 @@
 - title: "Module 1: Working on structured and unstructured data with python"
 
-- date: 13/13
+- date: 15/1
   title: >
     <strong>Introduction and environment setups</strong>
   slides: "https://docs.google.com/presentation/d/1O5z15EdfpT5E9EgGuV-xZsY8M0t6w7QqKCFfeJJBTQE/edit#slide=id.g26435cf8a4c_0_766"
@@ -18,7 +18,7 @@
   logistics:
     - Weekly Writing X1
 
-- date: 13/13
+- date: 16/1
   title: >
     <strong>Processing hamanity subject unstructured data and revisiting programming paradigms</strong>
   slides: https://docs.google.com/presentation/d/1fz-IHdIhDk3EcaWcgNb5_TkrM5XXfZl-YAx5EsXUrZc/edit#slide=id.g2a8a698d9b2_1_72
@@ -39,7 +39,7 @@
   logistics:
     - Weekly Writing X1
 
-- date: 13/13
+- date: 22/1
   title: >
     <strong>Structured Data processing and basic data analytics</strong>
   slides: https://docs.google.com/presentation/d/1mcS9j51Jx33ZPGKQw1SuvnRXWGBupL1AuSwOHbenVrM/edit#slide=id.p
@@ -62,7 +62,7 @@
 
 - title: "Module 2: Managing humanity subject data with MongoDB"
 
-- date: 13/13
+- date: 23/1
   title: >
     <strong>Setup MongoDB Atlas and environemnt, establish connection and CRUD operations</strong>
   slides: https://docs.google.com/presentation/d/1pqhmTtlsgLsdB1EQatZDx4G0MQvuM3hV4xhHNIoYcEE/edit#slide=id.g2a8aa351b95_0_42
@@ -77,7 +77,7 @@
   logistics: >
     - Weekly Writing X1
 
-- date: 13/13
+- date: 29/1
   title: >
     <strong>Data modeling and database schema design in mongoDB atlas</strong>
   slides: https://docs.google.com/presentation/d/1p5AYBbHmbWaj4ZCGv_UVLq3ym8kg3XQlKKhJ2BEl4yc/edit?usp=sharing
@@ -93,7 +93,7 @@
     - Weekly Writing X1
 
 
-- date: 13/13
+- date: 30/1
   title: >
     <strong>Aggregation framework and vector search in mongoDB atlas</strong>
   slides: https://docs.google.com/presentation/d/10HfA81SuRqLmIpckxPUD5bKA7Ue5i1dO_FLiFW4l5SM/edit?usp=sharing
@@ -114,7 +114,7 @@
 
 - title: "Module 3: Working on humanity subject research with Natural Language Processing and Machine Learning"
 
-- date: 13/13
+- date: 5/2
   title: >
     <strong>Introduction to machine learning and neural networks</strong>
   slides: https://docs.google.com/presentation/d/1pEhhu-6JJgirak1D9afyzt7chKPPBqhajPbCfHDKZGY/edit#slide=id.p
@@ -130,7 +130,7 @@
   logistics: >
     - Weekly Writing X1
 
-- date: 13/13
+- date: 6/2
   title: >
     <strong>Numerical representations of Languages</strong>
   slides: https://docs.google.com/presentation/d/1lei-5W3-4X9uOD1c5MZ_1q4ExLzNGojFixvsqubDHR8/edit#slide=id.p
@@ -148,7 +148,7 @@
   logistics: >
     - Weekly Writing X1
 
-- date: 13/13
+- date: 19/2
   title: >
     <strong>Fine-tuning word embeddings for text data analysis</strong>
   slides: https://docs.google.com/presentation/d/1PcnNiNathWWq6hTmIKo0ppOg1JrfYtAwk7jziy2HZ_c/edit#slide=id.p
@@ -164,7 +164,7 @@
 
 - title: "Module 4: Interactive data visualization and web application deployment"
 
-- date: 13/13
+- date: 20/2
   title: >
     <strong>Exploratory data analysis and interactive data visualization</strong>
     - pandas
@@ -181,7 +181,7 @@
   logistics: >
     - Weekly Writing X1
 
-- date: 13/13
+- date: 26/2
   title: >
     <strong>Creating interactive web application with streamlit</strong>
   slides: https://docs.google.com/presentation/d/1wFauGLQb8HCCe1eOrtCh64W6f0x6prhwlPVq-84AqU0/edit?usp=sharing
@@ -196,7 +196,7 @@
     - Weekly Writing X1
 
 
-- date: 13/13
+- date: 27/2
   title: >
     <strong>Project deployment</strong>
   slides: https://docs.google.com/presentation/d/18g_gIJ1ZawSu_2lq0hcKCmIXev4WaxhFdwaiiMw87vI/edit#slide=id.p
@@ -211,5 +211,5 @@
     - <span class="deadline">HW4 due (Wed, 14/13)</span>
 
 
-- date: 40/30
+- date: 4/3
   title: "Project presentations (Lecture room, 2:30-5:30 pm)"
